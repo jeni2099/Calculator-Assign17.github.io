@@ -1,0 +1,15 @@
+.card {
+    margin: 50px 0px 0px 400px;
+}
+
+input {
+    background-color: #e699ff;
+    padding: 30px;
+    border-radius: 5px;
+    color: black;
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+}
