@@ -8,6 +8,6 @@ function solve() {
     document.getElementById('result').value = res;
 }
 
-function clear() {
+function clear1() {
     document.getElementById('result').value=" ";
 }
